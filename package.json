@@ -1,0 +1,15 @@
+{
+  "name": "cyber-sync-worker-iot-d1w",
+  "version": "1.0.0",
+  "description": "Event-driven architecture for modern applications",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test"
+  },
+  "keywords": ["ai", "infrastructure"],
+  "author": "Yoshi Kondo",
+  "license": "MIT"
+}
